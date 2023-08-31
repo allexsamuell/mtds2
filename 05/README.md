@@ -9,7 +9,7 @@ Com base no array de objetos abaixo filtre os usuários que possuam entre 18 e 6
 **Dica:** utilize o método `filter()` e `every()`
 
 ```javascript
-const usuários = [
+const usuarios = [
   {
     nome: "André",
     idade: 29,
